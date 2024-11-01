@@ -15,7 +15,7 @@ h1 {
 
 /* Heading 1 element hover effect */
 h1:hover {
-    filter: grayscale(5%); /* Adds a slightly gray filter to the h1 headings when hovered over */
+    filter: grayscale(6%); /* Adds a slightly gray filter to the h1 headings when hovered over */
     transform: scale(1.1); /* When the h1 elements are hovered over they increase in size by 1.1 */
     transition: transform 0.5s; /* This causes the transformation to last 0.5 second */
 }
